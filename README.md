@@ -12,4 +12,4 @@ Features
 
 Support
 ========
-For any query please visit: http://2015themes.com
+For any query please visit: http://2015themes.com/contact-us
