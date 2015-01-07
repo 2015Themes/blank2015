@@ -8,7 +8,7 @@ Features
 1. Logo uploader.
 2. Footer Copyright (Comming Soon).
 3. Social Share link (Comming Soon).
-4. Ohter
+4. Other
 
 Support
 ========
